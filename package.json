@@ -1,0 +1,25 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "Node Blog Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuba0607/NodeBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuba0607/NodeBlog/issues"
+  },
+  "homepage": "https://github.com/Tuba0607/NodeBlog#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "mongoose": "^6.2.3"
+  }
+}
